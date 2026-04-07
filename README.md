@@ -1,3 +1,4 @@
 # Project-Demo
 This is my first Git Repository 
-Author Sagar Thitame
+<br>
+Author - Sagar Thitame
